@@ -1,16 +1,28 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthew McCredy
+=======================================================================================================================================
 
-<!--
-**data-nihilist/data-nihilist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Developer//Sci-Fi Enthusiast//Cat Daddy
+----------------------------------------------
 
-Here are some ideas to get you started:
+I've been programming since January 2023 - I'm still relatively green in the world of code, but, I can't express just how exciting, formative, and validating discovering this passion has been. My passion for programming informs my love and admiration of video-games. I can't wrap my head around it yet, but, if there's any metric we as a society enjoy using to gauge how impressive a piece of hardware is - it's seeing if it can run a game with as many FPS as possible. Prior to programming, my work was mostly in the realm of customer service. I've managed the wholesale department of one of the North Shore's most successful artisan bakeries and one of the raddest taprooms of a beloved NE craft brewery. My decision to leave the brewery and pursue becoming a developer led me to one of the best jobs I've ever had - field hand for one of the top ranked apple orchards in all of New England. This incubation period of farming by day and coding by night will remain one of the most transformative periods of my life. Shameless shout-outs! A&J King Artisan Bakers on Central Street in the heart of downtown Salem, MA BareWolf Brewing on Oakland Street, Amesbury, MA Cider Hill Farms located on Fern Ave, Amesbury, MA I owe a lot of who I am as both a worker and as an individual to the years spent with these places.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Somerville, MA
+* 🖥️  See my portfolio at [Get To The Gig - my capstone project during my apprenticeship at Launch Academy, Boston](http://github.com/data-nihilist/bt)
+* ✉️  You can contact me at [matthewmccredy@gmail.com](mailto:matthewmccredy@gmail.com)
+* 🚀  I'm currently working on [The continuation of my capstone project](http://github.com/data-nihilist/bt)
+* 🧠  I'm learning C#, Python, WebSockets, AWS
+* 🤝  I'm open to collaborating on Any and all projects that are using typescript (C#), web sockets for turn-based UI, and anything that could be considered a public good (open source tech)
+* ⚡  I play Dungeons & Dragons regularly, both as a player and as a Dungeon Master. There are few things that I'm closed off to as far as storytelling goes - from reading to playing/recording music in my spare time when my cat is in between his zoomies.
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/ebdellebdum" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/data-nihilist" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/animmediatedeath" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/matthew-mccredy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
+
+<a href="https://github.com/data-nihilist" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-nihilist&langs_count=10&title_color=444e59&text_color=10b981&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
