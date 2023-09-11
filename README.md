@@ -11,8 +11,8 @@ I've been programming since January 2023 - I'm still relatively green in the wor
 * ✉️  You can contact me at [matthewmccredy@gmail.com](mailto:matthewmccredy@gmail.com)
 * 🚀  I'm currently working on [The continuation of my capstone project](http://github.com/data-nihilist/bt)
 * 🧠  I'm learning C#, Python, WebSockets, AWS
-* 🤝  I'm open to collaborating on Any and all projects that are using typescript (C#), web sockets for turn-based UI, and anything that could be considered a public good (open source tech)
-* ⚡  I play Dungeons & Dragons regularly, both as a player and as a Dungeon Master. There are few things that I'm closed off to as far as storytelling goes - from reading to playing/recording music in my spare time when my cat is in between his zoomies.
+* 🤝  I'm open to collaborating on any and all projects that are using TypeScript, c#, web sockets for turn-based UI, and anything that could be considered a public good (open source tech)
+* ⚡  I play Dungeons & Dragons regularly, both as a player and as a Dungeon Master.
 
 ### Skills
 
