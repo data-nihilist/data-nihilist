@@ -1,16 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthew McCredy
 =======================================================================================================================================
 
-Junior Developer//Sci-Fi Enthusiast
+Full-Stack Web Developer
 -----------------------------------
 
-I've been programming since January 2023 - I'm still relatively green in the world of code, but, I can't express just how exciting, formative, and validating discovering this passion has been. My passion for programming informs my love and admiration of video-games. Prior to programming, my work was mostly in the realm of customer service. I've managed the wholesale department of one of the North Shore's most successful artisan bakeries and one of the raddest taprooms of a beloved NE craft brewery. My decision to leave the brewery and pursue becoming a developer led me to one of the best jobs I've ever had - field hand for one of the top ranked apple orchards in all of New England. This incubation period of farming by day and coding by night will remain one of the most transformative periods of my life. Shameless shout-outs! A&J King Artisan Bakers on Central Street in the heart of downtown Salem, MA BareWolf Brewing on Oakland Street, Amesbury, MA Cider Hill Farms located on Fern Ave, Amesbury, MA I owe a lot of who I am as both a worker and as an individual to the years spent with these places.
+I've been programming since January 2023 - I'm still relatively green in the world of code, but, I can't express just how exciting, formative, and validating discovering this passion has been. My passion for programming informs my love and admiration of all things science-fiction. Prior to programming, my work was mostly in the realm of customer service. I've managed the wholesale department of one of the North Shore's most successful artisan bakeries and one of the raddest taprooms of a beloved NE craft brewery. My decision to leave the brewery and pursue becoming a developer led me to one of the best jobs I've ever had - field hand for one of the top ranked apple orchards in all of New England. This incubation period of farming by day and coding by night will remain one of the most transformative periods of my life. Shameless shout-outs! A&J King Artisan Bakers on Central Street in the heart of downtown Salem, MA BareWolf Brewing on Oakland Street, Amesbury, MA Cider Hill Farms located on Fern Ave, Amesbury, MA I owe a lot of who I am as both a worker and as an individual to the years spent with these places.
 
 * 🌍  I'm based in Somerville, MA
-* 🖥️  See my portfolio at [Get To The Gig - my capstone project during my apprenticeship at Launch Academy, Boston](http://github.com/data-nihilist/bt)
 * ✉️  You can contact me at [matthewmccredy@gmail.com](mailto:matthewmccredy@gmail.com)
-* 🚀  I'm currently working on Front End Development for <a href="https://featrix.ai/blog" target="_blank">Featrix.AI<a>
-* 🧠  I'm learning DSA while writing in C#, data visualization using the D3.js library, improving my JavaScript React skills, and my data engineering muscles via PostgreSQL with Prisma ORM.
+* 🚀  I'm currently working as a Front End Developer for <a href="https://featrix.ai/blog" target="_blank">Featrix.AI<a>
+* 🧠  I'm learning DSA while writing in C#, data visualization using the D3.js library, and constantly improving my OOP skills.
 * 🤝  I'm open to collaborating on any and all projects that are using TypeScript/JavaScript, C#, Web Sockets, and anything that could be considered a public good.
 
 ### Skills
