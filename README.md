@@ -15,11 +15,26 @@ Full-Stack Web Developer || RN App Developer
 
 #### Where I Work
 
-- You can see some of my work if you visit the SoftEthix.io website - this has since been taken over by a handful of NY based artists. Gotta love 'em.
-- Featrix [AI start up out of Boston, MA]: If you're a developer that wants to use AI to clean your dirty data and begin working asap, this is the platform for you.
-- GoodBread [FinTech start up out of NY, NY]: Currently targetting our MVP date in late Fall of 2024 - we're changing the way small businesses gain access to equity.
+Currently I'm a front end developer for New York, New York's GoodBread Inc.
 
-I'm always happy to collaborate or figure out the right approach to something. I'm constantly learning. Feel free to drop a follow or send a request to either of the links below!
+- You can still find me on the community slack channel for <a href="https://featrix.ai/" target="_blank" rel="noreferrer">Featrix [Boston, MA]</a>, my first seat on the front end. Some say my comments still litter the dark corridors leading to the AI model's chamber..
+- I had the honor of creating a website for and in collaboration with <a href="https://www.softethix.io/" target="_blank" rel="noreferrer">SoftEthix</a>, the game developers behind their current project inspire me daily.
+
+What I enjoy most about programming is its fundamentally collaborative nature. I learn the most when I'm surrounded by others who enjoy that nature as much as I do.
+So far I've been spoiled by the engineers I consider my mentors, and I'm eager to return the favors they've given me.
+
+#### What I Enjoy About My Work
+
+- Building tools for people that want to improve the lives of others.
+- Having my code torn to pieces by someone who could bring down a database with a single `-curl` command
+- Rinse. Repeat.
+
+#### What I Want To Work On
+
+- AirBnB's Polyglot
+- D&D Homebrew Map Generator
+- AgTech (before/while beginning web development, I was a full time farmer)
+- DSA learning program for my niece and nephew
 
 ### Socials
 
