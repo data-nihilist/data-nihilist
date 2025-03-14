@@ -15,7 +15,7 @@ Full-Stack Web Developer || RN App Developer
 
 #### Where I Work
 
-Currently I'm a front end developer for New York, New York's GoodBread Inc.
+Currently I'm a full stack developer for New York, New York's GoodBread Inc.
 
 - You can still find me on the community slack channel for <a href="https://featrix.ai/" target="_blank" rel="noreferrer">Featrix [Boston, MA]</a>, my first seat on the front end. Some say my comments still litter the dark corridors leading to the AI model's chamber..
 - I had the honor of creating a website for and in collaboration with <a href="https://www.softethix.io/" target="_blank" rel="noreferrer">SoftEthix</a>, the game developers behind their current project inspire me daily.
